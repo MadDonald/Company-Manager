@@ -8,6 +8,9 @@ A command-line application for managing departments, roles, and employees in a c
 - Add a department, role, or employee
 - Update an employee's role
 
+## Video Showcase
+https://user-images.githubusercontent.com/100619060/226203825-ae6f708d-89c4-43bc-af1a-5320341e3ddb.mp4
+
 ## Requirements
 
 - Node.js
